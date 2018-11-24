@@ -2,10 +2,10 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.network;
+package fr.rpcore.thirstmod.network;
 
-import ch.m4th1eu.thirstmod.ThirstMod;
-import ch.m4th1eu.thirstmod.common.thirstlogic.ThirstStats;
+import fr.rpcore.thirstmod.ThirstMod;
+import fr.rpcore.thirstmod.common.thirstlogic.ThirstStats;
 import io.netty.buffer.ByteBuf;
 import net.minecraftforge.fml.common.network.simpleimpl.IMessage;
 import net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler;

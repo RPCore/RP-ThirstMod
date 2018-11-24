@@ -2,9 +2,9 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.client.gui;
+package fr.rpcore.thirstmod.client.gui;
 
-import ch.m4th1eu.thirstmod.ThirstMod;
+import fr.rpcore.thirstmod.ThirstMod;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.entity.EntityPlayerSP;

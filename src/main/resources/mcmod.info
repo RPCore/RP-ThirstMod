@@ -5,7 +5,7 @@
   "description": "Le mod qui vous donne soif!",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/RPCore/RP-ThirstMod/",
   "updateUrl": "",
   "authorList": ["M4TH1EU_"],
   "logoFile": "",

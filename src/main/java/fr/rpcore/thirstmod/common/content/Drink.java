@@ -2,7 +2,7 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.common.content;
+package fr.rpcore.thirstmod.common.content;
 
 import net.minecraft.item.Item;
 

@@ -2,10 +2,9 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.common.content;
+package fr.rpcore.thirstmod.common.content;
 
 import com.google.gson.Gson;
-import scala.reflect.io.Directory;
 
 import java.io.File;
 import java.io.FileReader;

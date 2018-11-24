@@ -2,7 +2,7 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.proxy;
+package fr.rpcore.thirstmod.proxy;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;

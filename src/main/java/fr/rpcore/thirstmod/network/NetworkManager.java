@@ -2,7 +2,15 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.network;
+/*
+ * Class By M4TH1EU
+ */
+
+/*
+ * Class By M4TH1EU
+ */
+
+package fr.rpcore.thirstmod.network;
 
 import net.minecraftforge.fml.common.network.NetworkRegistry;
 import net.minecraftforge.fml.common.network.simpleimpl.IMessage;

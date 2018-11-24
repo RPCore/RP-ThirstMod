@@ -2,12 +2,12 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.proxy;
+package fr.rpcore.thirstmod.proxy;
 
-import ch.m4th1eu.thirstmod.common.content.Drink;
-import ch.m4th1eu.thirstmod.common.thirstlogic.ThirstStats;
-import ch.m4th1eu.thirstmod.items.ItemDrink;
-import ch.m4th1eu.thirstmod.items.ItemFilter;
+import fr.rpcore.thirstmod.common.content.Drink;
+import fr.rpcore.thirstmod.common.thirstlogic.ThirstStats;
+import fr.rpcore.thirstmod.items.ItemDrink;
+import fr.rpcore.thirstmod.items.ItemFilter;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.Item;
 

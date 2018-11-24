@@ -2,11 +2,11 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.items;
+package fr.rpcore.thirstmod.items;
 
-import ch.m4th1eu.thirstmod.ThirstMod;
-import ch.m4th1eu.thirstmod.common.content.Drink;
-import ch.m4th1eu.thirstmod.common.thirstlogic.ThirstStats;
+import fr.rpcore.thirstmod.ThirstMod;
+import fr.rpcore.thirstmod.common.content.Drink;
+import fr.rpcore.thirstmod.common.thirstlogic.ThirstStats;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.EnumAction;
 import net.minecraft.item.Item;

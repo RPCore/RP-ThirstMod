@@ -2,12 +2,12 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod;
+package fr.rpcore.thirstmod;
 
-import ch.m4th1eu.thirstmod.common.content.ExternalDrink;
-import ch.m4th1eu.thirstmod.common.thirstlogic.EventHook;
-import ch.m4th1eu.thirstmod.proxy.ClientProxy;
-import ch.m4th1eu.thirstmod.proxy.CommonProxy;
+import fr.rpcore.thirstmod.common.content.ExternalDrink;
+import fr.rpcore.thirstmod.common.thirstlogic.EventHook;
+import fr.rpcore.thirstmod.proxy.ClientProxy;
+import fr.rpcore.thirstmod.proxy.CommonProxy;
 import com.google.gson.Gson;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
@@ -22,7 +22,7 @@ import net.minecraftforge.fml.relauncher.SideOnly;
 public class ThirstMod {
     @Mod.Instance("thirstmod")
     private static ThirstMod instance;
-    @SidedProxy(clientSide = "ch.m4th1eu.thirstmod.proxy.ClientProxy", serverSide = "ch.m4th1eu.thirstmod.proxy.CommonProxy", modId = "thirstmod")
+    @SidedProxy(clientSide = "ClientProxy", serverSide = "CommonProxy", modId = "thirstmod")
     private static CommonProxy commonProxy;
 
 

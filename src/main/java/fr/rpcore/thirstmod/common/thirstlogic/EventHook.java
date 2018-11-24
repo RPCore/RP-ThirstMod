@@ -2,15 +2,15 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.common.thirstlogic;
+package fr.rpcore.thirstmod.common.thirstlogic;
 
-import ch.m4th1eu.thirstmod.ThirstMod;
-import ch.m4th1eu.thirstmod.client.gui.GuiThirstBar;
-import ch.m4th1eu.thirstmod.common.content.Drink;
-import ch.m4th1eu.thirstmod.common.content.DrinkItem;
-import ch.m4th1eu.thirstmod.common.content.ExternalDrink;
-import ch.m4th1eu.thirstmod.network.NetworkManager;
-import ch.m4th1eu.thirstmod.network.PacketMovementSpeed;
+import fr.rpcore.thirstmod.ThirstMod;
+import fr.rpcore.thirstmod.client.gui.GuiThirstBar;
+import fr.rpcore.thirstmod.common.content.Drink;
+import fr.rpcore.thirstmod.common.content.DrinkItem;
+import fr.rpcore.thirstmod.common.content.ExternalDrink;
+import fr.rpcore.thirstmod.network.NetworkManager;
+import fr.rpcore.thirstmod.network.PacketMovementSpeed;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.Item;

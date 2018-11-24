@@ -2,10 +2,10 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.items;
+package fr.rpcore.thirstmod.items;
 
-import ch.m4th1eu.thirstmod.Constants;
-import ch.m4th1eu.thirstmod.proxy.ThirstTab;
+import fr.rpcore.thirstmod.Constants;
+import fr.rpcore.thirstmod.proxy.ThirstTab;
 import net.minecraft.item.Item;
 
 public class ItemFilter extends Item {

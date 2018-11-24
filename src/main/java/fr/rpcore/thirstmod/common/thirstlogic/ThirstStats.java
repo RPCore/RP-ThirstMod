@@ -2,10 +2,10 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.common.thirstlogic;
+package fr.rpcore.thirstmod.common.thirstlogic;
 
-import ch.m4th1eu.thirstmod.network.NetworkManager;
-import ch.m4th1eu.thirstmod.network.PacketThirstStats;
+import fr.rpcore.thirstmod.network.NetworkManager;
+import fr.rpcore.thirstmod.network.PacketThirstStats;
 import net.minecraft.block.material.Material;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.player.EntityPlayer;

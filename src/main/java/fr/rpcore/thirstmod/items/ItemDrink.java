@@ -2,13 +2,13 @@
  * Class By M4TH1EU
  */
 
-package ch.m4th1eu.thirstmod.items;
+package fr.rpcore.thirstmod.items;
 
-import ch.m4th1eu.thirstmod.ThirstMod;
-import ch.m4th1eu.thirstmod.common.content.Drink;
-import ch.m4th1eu.thirstmod.common.thirstlogic.ThirstStats;
-import ch.m4th1eu.thirstmod.proxy.CommonProxy;
-import ch.m4th1eu.thirstmod.proxy.ThirstTab;
+import fr.rpcore.thirstmod.ThirstMod;
+import fr.rpcore.thirstmod.common.content.Drink;
+import fr.rpcore.thirstmod.common.thirstlogic.ThirstStats;
+import fr.rpcore.thirstmod.proxy.CommonProxy;
+import fr.rpcore.thirstmod.proxy.ThirstTab;
 import net.minecraft.client.renderer.color.IItemColor;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.EntityLivingBase;
