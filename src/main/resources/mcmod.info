@@ -1,0 +1,15 @@
+[
+{
+  "modid": "thirstmod",
+  "name": "Thirst Mod",
+  "description": "Le mod qui vous donne soif!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["M4TH1EU_"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
